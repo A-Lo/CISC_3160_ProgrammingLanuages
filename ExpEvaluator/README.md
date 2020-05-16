@@ -1,4 +1,4 @@
-##**How to run:** *(Command line)*
+## **How to run:** *(Command line)*
 
 **javac ExpEvaluator.java** ----> *This will compile the java file into an executable; class-object (ExpEvaluator.class)*
 
